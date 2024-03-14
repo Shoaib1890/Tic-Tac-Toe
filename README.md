@@ -1,3 +1,2 @@
 # Tic-Tac-Toe
-Created a Tic Tac Toe Game .
-used : HTML , CSS and Java Script .
+Created a Tic Tac Toe Game using HTML , CSS and Java Script .
